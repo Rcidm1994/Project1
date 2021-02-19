@@ -1,0 +1,348 @@
+Company,Industry,Bankruptcy Date,Assets ($)
+Hertz,"Travel, Lodging and Leisure",22-May,25.8B
+Latam Airlines,"Travel, Lodging and Leisure",25-May,21.1B
+Frontier Communications,"Telecoms, Media and Technology",14-Apr,17.4B
+Chesapeake Energy,Energy,28-Jun,16.2B
+Ascena Retail,Retail and Restaurants,23-Jul,13.7B
+Valaris,Energy,19-Aug,13.0B
+Mallinckrodt,Health and Personal Care,12-Oct,9.6B
+J.C. Penney,Retail and Restaurants,15-May,8.6B
+Whiting Petroleum,Energy,1-Apr,7.6B
+Avianca Holdings,"Travel, Lodging and Leisure",10-May,7.3B
+Noble Corp.,Energy,31-Jul,7.3B
+Diamond Offshore Drilling,Energy,26-Apr,5.8B
+Denbury Resources,Energy,30-Jul,4.6B
+Seadrill Partners,Energy,1-Dec,4.6B
+California Resources,Energy,15-Jul,4.1B
+Hornbeck Offshore Services,Energy,19-May,2.7B
+Covia Holdings,"Industrials, Materials, Equipment and Parts",29-Jun,2.5B
+Tailored Brands,Retail and Restaurants,2-Aug,2.5B
+Gulfport Energy,Energy,13-Nov,2.4B
+Pennsylvania Real Estate Investment Trust,Retail and Restaurants,1-Nov,2.4B
+Pacific Drilling,Energy,31-Oct,2.2B
+Unit,Energy,22-May,2.1B
+Garrett Motion,"Industrials, Materials, Equipment and Parts",20-Sep,2.1B
+Centric Brands,Retail and Restaurants,18-May,1.9B
+CEC Entertainment,Retail and Restaurants,24-Jun,1.7B
+LSC Communications,Other,13-Apr,1.6B
+Briggs & Stratton,"Industrials, Materials, Equipment and Parts",20-Jul,1.6B
+Ultra Petroleum,Energy,14-May,1.3B
+Pyxus International,Other,15-Jun,1.0B
+RGN-Group Holdings,Other,17-Aug,1.0B
+Superior Energy,Energy,7-Dec,1.0B
+Guitar Center,Retail and Restaurants,21-Nov,1.0B
+CBL Properties,Retail and Restaurants,2-Nov,1.0B
+Oasis Petroleum,Energy,30-Sep,1.0B
+iQor,Other,10-Sep,1.0B
+Fieldwood Energy,Energy,3-Aug,1.0B
+WorldStrides,"Travel, Lodging and Leisure",20-Jul,1.0B
+Bruin E&P Partners,Energy,16-Jul,1.0B
+NPC International,Retail and Restaurants,1-Jul,1.0B
+Grupo Aeromexico,"Travel, Lodging and Leisure",30-Jun,1.0B
+Grupo Famsa,Retail and Restaurants,26-Jun,1.0B
+Sable Permian Resources,Energy,25-Jun,1.0B
+Chisholm Oil & Gas,Energy,17-Jun,1.0B
+24 Hour Fitness Worldwide,"Travel, Lodging and Leisure",15-Jun,1.0B
+Extraction Oil & Gas,Energy,14-Jun,1.0B
+Gavilan Resources,Energy,15-May,1.0B
+Neiman Marcus,Retail and Restaurants,7-May,1.0B
+J Crew,Retail and Restaurants,4-May,1.0B
+OneWeb Holdings,"Telecoms, Media and Technology",27-Mar,1.0B
+Foresight Energy,Energy,10-Mar,1.0B
+Hi-Crush,Energy,12-Jul,953.1M
+GNC Holdings,Retail and Restaurants,23-Jun,895.0M
+Rosehill Resources,Energy,26-Jul,872.5M
+Stein Mart,Retail and Restaurants,12-Aug,757.5M
+Shiloh Industries,"Industrials, Materials, Equipment and Parts",30-Aug,664.2M
+Global Eagle Entertainment,"Telecoms, Media and Technology",22-Jul,630.5M
+Chaparral Energy,Energy,16-Aug,595.2M
+Lonestar Resources,Energy,30-Sep,560.0M
+FTS International,Energy,22-Sep,517.2M
+Bouchard Transportation,Energy,28-Sep,500.0M
+Town Sports,"Travel, Lodging and Leisure",14-Sep,500.0M
+TNT Crane & Rigging,"Industrials, Materials, Equipment and Parts",23-Aug,500.0M
+Mood Media,Other,30-Jul,500.0M
+BJ Services,Energy,20-Jul,500.0M
+Brooks Brothers,Retail and Restaurants,8-Jul,500.0M
+Exide Technologies,"Industrials, Materials, Equipment and Parts",19-May,500.0M
+Stage Stores,Retail and Restaurants,10-May,500.0M
+SpeedCast International,"Telecoms, Media and Technology",23-Apr,500.0M
+American Addiction Centers,Health and Personal Care,20-Jun,449.3M
+Jason Industries,"Industrials, Materials, Equipment and Parts",24-Jun,428.4M
+New York & Co.,Retail and Restaurants,13-Jul,405.4M
+Endologix,Health and Personal Care,5-Jul,279.6M
+Lilis Energy,Energy,28-Jun,258.6M
+VIVUS,Health and Personal Care,7-Jul,213.9M
+IMH Financial,Other,23-Jul,122.0M
+Provision CARES Proton Therapy,Health and Personal Care,15-Dec,105.6M
+Lighthouse Resources,Energy,3-Dec,100.0M
+White Stallion Energy,Energy,2-Dec,100.0M
+Northwest Hardwoods,"Industrials, Materials, Equipment and Parts",23-Nov,100.0M
+LRGHealthcare,Health and Personal Care,19-Oct,100.0M
+Utex Industries,Energy,8-Oct,100.0M
+Ruby Tuesday,Retail and Restaurants,7-Oct,100.0M
+Roman Catholic Diocese of Rockville Centre,Other,30-Sep,100.0M
+Herald Hotel Associates,"Travel, Lodging and Leisure",22-Sep,100.0M
+Century 21,Retail and Restaurants,10-Sep,100.0M
+Ursa Resources,Energy,2-Sep,100.0M
+Hermitage Offshore Services,Energy,11-Aug,100.0M
+Benevis,Health and Personal Care,2-Aug,100.0M
+Lord & Taylor,Retail and Restaurants,2-Aug,100.0M
+California Pizza Kitchen,Retail and Restaurants,29-Jul,100.0M
+Engineered Propulsion Systems,"Industrials, Materials, Equipment and Parts",29-Jul,100.0M
+Sur La Table,Retail and Restaurants,8-Jul,100.0M
+Lucky Brand Dungarees,Retail and Restaurants,3-Jul,100.0M
+Proteus Digital Health,"Telecoms, Media and Technology",15-Jun,100.0M
+Vista Proppants and Logistics,Energy,9-Jun,100.0M
+APC Automotive Technologies,"Industrials, Materials, Equipment and Parts",3-Jun,100.0M
+Libbey,Retail and Restaurants,1-Jun,100.0M
+Templar Energy,Energy,1-Jun,100.0M
+Le Pain Quotidien (U.S. subsidiary),Retail and Restaurants,27-May,100.0M
+Advantage Holdings,"Travel, Lodging and Leisure",26-May,100.0M
+Techniplas,"Industrials, Materials, Equipment and Parts",6-May,100.0M
+The Roman Catholic Church for the Archdiocese of New Orleans,Other,1-May,100.0M
+Klausner Lumber One,"Industrials, Materials, Equipment and Parts",30-Apr,100.0M
+Rubie’s Costume,Retail and Restaurants,30-Apr,100.0M
+Cinemex Holdings USA,Entertainment,25-Apr,100.0M
+Longview Intermediate Holdings,Energy,14-Apr,100.0M
+True Religion Apparel,Retail and Restaurants,13-Apr,100.0M
+Pace Industries,"Industrials, Materials, Equipment and Parts",12-Apr,100.0M
+Ravn Air,"Travel, Lodging and Leisure",5-Apr,100.0M
+Art Van Furniture,Retail and Restaurants,3-Apr,100.0M
+Tuesday Morning,Retail and Restaurants,27-May,92.0M
+Pyrolyx USA Indiana,"Industrials, Materials, Equipment and Parts",28-Oct,61.0M
+Renovate America,Other,21-Dec,50.0M
+Tillary Hotel,"Travel, Lodging and Leisure",18-Dec,50.0M
+In-Shape Health Clubs,"Travel, Lodging and Leisure",15-Dec,50.0M
+YouFit Health Clubs,"Travel, Lodging and Leisure",9-Nov,50.0M
+Cred,Other,7-Nov,50.0M
+Henry Ford Village,Health and Personal Care,28-Oct,50.0M
+Rubio’s Restaurants,Retail and Restaurants,26-Oct,50.0M
+Studio Movie Grill,"Travel, Lodging and Leisure",23-Oct,50.0M
+MD America,Energy,12-Oct,50.0M
+Diocese of Camden,Other,1-Oct,50.0M
+Metronomic Holdings,Other,23-Sep,50.0M
+Bainbridge Uinta,Energy,1-Sep,50.0M
+SAExploration,Energy,27-Aug,50.0M
+Arena Energy,Energy,20-Aug,50.0M
+Il Mulino New York,Retail and Restaurants,28-Jul,50.0M
+Congoleum,"Industrials, Materials, Equipment and Parts",13-Jul,50.0M
+Muji USA,Retail and Restaurants,10-Jul,50.0M
+Old Time Pottery,Retail and Restaurants,28-Jun,50.0M
+Garden Fresh Restaurants,Retail and Restaurants,14-May,50.0M
+Midtown Campus Properties,Other,8-May,50.0M
+Gold’s Gym International,"Travel, Lodging and Leisure",4-May,50.0M
+Toojay’s Management,Retail and Restaurants,29-Apr,50.0M
+Apex Parks Group,Entertainment,8-Apr,50.0M
+K&W Cafeterias,Retail and Restaurants,2-Sep,30.1M
+Punch Bowl Social,Retail and Restaurants,21-Dec,10.0M
+By Chloe,Retail and Restaurants,14-Dec,10.0M
+Airport Van Rental,"Travel, Lodging and Leisure",11-Dec,10.0M
+American Medical Depot,Health and Personal Care,11-Dec,10.0M
+Furla USA,Retail and Restaurants,6-Nov,10.0M
+FFO Home,Retail and Restaurants,5-Nov,10.0M
+Good Deed 317,Entertainment,29-Oct,10.0M
+Midway Market Square Elyria,Retail and Restaurants,27-Oct,10.0M
+1769 LLC,Other,19-Oct,10.0M
+Shilo Inn Ocean Shores and Shilo Inn Nampa Suites,"Travel, Lodging and Leisure",15-Oct,10.0M
+1069 Restaurant Group,Retail and Restaurants,5-Oct,10.0M
+Eagle Pipe,Energy,5-Oct,10.0M
+Clearpoint Chemicals,Energy,29-Sep,10.0M
+Impresa Aerospace,"Industrials, Materials, Equipment and Parts",24-Sep,10.0M
+Golden Hotel,"Travel, Lodging and Leisure",21-Sep,10.0M
+Flywheel Sports,"Travel, Lodging and Leisure",14-Sep,10.0M
+Mariner Seafood,Other,14-Sep,10.0M
+Maison Kayser USA,Retail and Restaurants,10-Sep,10.0M
+Energy Alloy Holdings,Energy,9-Sep,10.0M
+Las Vegas Monorail,"Travel, Lodging and Leisure",7-Sep,10.0M
+Keiv Hospitality,"Travel, Lodging and Leisure",1-Sep,10.0M
+Arandell Holdings Inc,Other,13-Aug,10.0M
+Renmora Petroleum,Energy,12-Aug,10.0M
+Global Keg,Retail and Restaurants,23-Jul,10.0M
+RE Palm Springs II,"Travel, Lodging and Leisure",22-Jul,10.0M
+Patriot Well Solutions,Energy,21-Jul,10.0M
+Serendipity Labs,Other,15-Jul,10.0M
+The Paper Store,Retail and Restaurants,14-Jul,10.0M
+Apex Linen Service,"Travel, Lodging and Leisure",6-Jul,10.0M
+Luxury Dining Group,Retail and Restaurants,3-Jul,10.0M
+Premiere Jewellery,Retail and Restaurants,25-Jun,10.0M
+Juniper Specialty Products,Energy,19-Jun,10.0M
+Petersen-Dean,"Industrials, Materials, Equipment and Parts",11-Jun,10.0M
+Klausner Lumber Two,"Industrials, Materials, Equipment and Parts",10-Jun,10.0M
+Vision Group Holdings,Health and Personal Care,29-May,10.0M
+Sustainable Restaurant Group,Retail and Restaurants,12-May,10.0M
+CFRA Holdings,Retail and Restaurants,6-May,10.0M
+Galileo Learning,Other,6-May,10.0M
+John Varvatos Enterprises,Retail and Restaurants,6-May,10.0M
+Diamondback Industries,Energy,21-Apr,10.0M
+Yuma Energy,Energy,15-Apr,10.0M
+Alpha Entertainment (XFL),Entertainment,13-Apr,10.0M
+FoodFirst Restaurants,Retail and Restaurants,10-Apr,10.0M
+138 QB Acquisition,Other,6-Apr,10.0M
+402-420 Metropolitan Ave,Other,1-Apr,10.0M
+Alaska Urological Institute,Health and Personal Care,25-Mar,10.0M
+Alamo Drafthouse franchisee (Phoenix area),Entertainment,13-May,5.8M
+Jacobson Hotels Inc.,"Travel, Lodging and Leisure",4-Aug,5.8M
+Traxium,Other,16-Oct,4.4M
+UNOde50,Retail and Restaurants,19-Aug,4.3M
+WP Realty Acquisition III,Other,11-Sep,4.1M
+Blessings,Retail and Restaurants,24-Sep,3.9M
+Kim Dolleh Center,Other,4-May,3.9M
+Valley Farm Supply,"Industrials, Materials, Equipment and Parts",2-Sep,3.7M
+Owatonna Hospitality,"Travel, Lodging and Leisure",14-Jul,3.7M
+Tea Station Investments,Retail and Restaurants,1-Jul,3.1M
+Lou Lou Boutiques,Retail and Restaurants,24-Sep,3.0M
+Max’s South Seas Hideaway,Retail and Restaurants,29-Oct,2.5M
+Twisted Root Burger (Mansfield),Retail and Restaurants,17-Jun,2.4M
+Legacy Global Sports,Entertainment,20-May,2.1M
+Sugar Factory Ocean Drive,Retail and Restaurants,22-Jul,2.0M
+Jaguar Distribution Corp.,Entertainment,31-Jul,1.8M
+Little Minds 1st Academy,Other,2-Nov,1.8M
+Murphy Shipping & Commercial Services,Energy,12-Aug,1.6M
+Altitude Trampoline Park,Entertainment,4-Sep,1.4M
+Lorenz Corp.,Entertainment,19-Aug,1.4M
+Miller Tool & Die,"Industrials, Materials, Equipment and Parts",21-Dec,1.0M
+Everest Hotel Group,"Travel, Lodging and Leisure",1-Dec,1.0M
+Friendly’s Restaurants,Retail and Restaurants,1-Nov,1.0M
+Whoa Networks,Other,29-Oct,1.0M
+Park Avenue Leather Goods,Retail and Restaurants,22-Oct,1.0M
+SmarTours,"Travel, Lodging and Leisure",19-Oct,1.0M
+Cyc Fitness Partners,"Travel, Lodging and Leisure",14-Oct,1.0M
+Wisconsin Apple,Retail and Restaurants,14-Oct,1.0M
+YogaWorks,"Travel, Lodging and Leisure",14-Oct,1.0M
+Coto Investments,"Travel, Lodging and Leisure",13-Oct,1.0M
+Krieger Craftsmen,"Industrials, Materials, Equipment and Parts",11-Oct,1.0M
+Diamond Coach Leasing,"Travel, Lodging and Leisure",9-Oct,1.0M
+First to the Finish,Retail and Restaurants,7-Oct,1.0M
+Integrated Dental Systems,Health and Personal Care,7-Oct,1.0M
+Figueroa Mountain Brewing Co.,Retail and Restaurants,5-Oct,1.0M
+U.S. Real Estate Equity Builder,Other,2-Oct,1.0M
+Grimmett Brothers,Energy,25-Sep,1.0M
+ProSource of Denver,"Industrials, Materials, Equipment and Parts",25-Sep,1.0M
+It’Sugar,Retail and Restaurants,22-Sep,1.0M
+Da Vinci’s,Entertainment,21-Sep,1.0M
+Sizzler USA,Retail and Restaurants,21-Sep,1.0M
+Energy Fishing & Rental Services,Energy,18-Sep,1.0M
+Wira Hotels 3,"Travel, Lodging and Leisure",18-Sep,1.0M
+Townhouse Hotel,"Travel, Lodging and Leisure",16-Sep,1.0M
+Charm Hospitality,"Travel, Lodging and Leisure",15-Sep,1.0M
+USF Collections,Retail and Restaurants,8-Sep,1.0M
+Blue Star Donuts,Retail and Restaurants,26-Aug,1.0M
+Travel With Sears,"Travel, Lodging and Leisure",21-Aug,1.0M
+Retail Solutions,Retail and Restaurants,20-Aug,1.0M
+The American Road Machinery Company,"Industrials, Materials, Equipment and Parts",20-Aug,1.0M
+Kinser Group,"Travel, Lodging and Leisure",14-Aug,1.0M
+Saxon Shoes,Retail and Restaurants,14-Aug,1.0M
+Sandbox VR,"Travel, Lodging and Leisure",13-Aug,1.0M
+Garbanzo Mediterranean Grill,Retail and Restaurants,12-Aug,1.0M
+Bond Foundry,Other,2-Aug,1.0M
+Desigual USA,Retail and Restaurants,22-Jul,1.0M
+Occasion Brands,Retail and Restaurants,22-Jul,1.0M
+Featherstone Foods,Retail and Restaurants,20-Jul,1.0M
+Live Primary,Other,12-Jul,1.0M
+Sethco,Retail and Restaurants,10-Jul,1.0M
+Days Inn by Wyndham Austin South,"Travel, Lodging and Leisure",6-Jul,1.0M
+G-Star Raw Retail,Retail and Restaurants,3-Jul,1.0M
+Feck Properties,"Travel, Lodging and Leisure",2-Jul,1.0M
+Surgical Specialists of St. Lucie County,Health and Personal Care,28-Jun,1.0M
+RWDT Foods,Retail and Restaurants,24-Jun,1.0M
+Upgrade Labs,Health and Personal Care,16-Jun,1.0M
+RM Bakery,Retail and Restaurants,15-Jun,1.0M
+Maines Paper & Food Service,Other,10-Jun,1.0M
+Barfly Ventures,Retail and Restaurants,3-Jun,1.0M
+John Barrett,Health and Personal Care,29-May,1.0M
+Foxtrot United,Other,12-May,1.0M
+Freedom Oil & Gas,Energy,11-May,1.0M
+Parking Management,Other,7-May,1.0M
+J Hilburn,Retail and Restaurants,30-Apr,1.0M
+Superior Air Charter,"Travel, Lodging and Leisure",28-Apr,1.0M
+CPES Novelles,Health and Personal Care,27-Apr,1.0M
+Wave Computing,"Telecoms, Media and Technology",27-Apr,1.0M
+Creative Hairdressers,Health and Personal Care,23-Apr,1.0M
+Hologenix,"Industrials, Materials, Equipment and Parts",22-Apr,1.0M
+United Cannabis,Health and Personal Care,20-Apr,1.0M
+USA Rugby,Other,31-Mar,1.0M
+Miami Air International,"Travel, Lodging and Leisure",24-Mar,1.0M
+Scotts Hook & Cleaver,Other,25-Aug,0.9M
+GeckoParx,Entertainment,20-Aug,0.9M
+International Orange Spa,Health and Personal Care,11-Oct,0.8M
+LIP Inc.,Retail and Restaurants,7-Jul,0.6M
+Declaration Brewing,Retail and Restaurants,26-Jun,0.5M
+Shotgun Willie’s,Entertainment,18-Nov,0.5M
+World of Dance,"Travel, Lodging and Leisure",23-Oct,0.5M
+Brooklyn Roasting Works,Retail and Restaurants,21-Oct,0.5M
+Valhalla Esports Lounge,Retail and Restaurants,14-Oct,0.5M
+Knighthouse Media,Other,2-Oct,0.5M
+Creekside Cancer Care,Health and Personal Care,17-Sep,0.5M
+Los Angeles School of Gymnastics,"Travel, Lodging and Leisure",8-Sep,0.5M
+Owens Home Furnishings,Retail and Restaurants,27-Aug,0.5M
+Orange Blossom Catering,Retail and Restaurants,14-Aug,0.5M
+Medical Associates of Mt. Vernon,Health and Personal Care,10-Jul,0.5M
+Twisted Root Burger (Richardson),Retail and Restaurants,6-Jul,0.5M
+Deluxe Taxicab Service,"Travel, Lodging and Leisure",25-Jun,0.5M
+KLJ Orchard Venues,Retail and Restaurants,18-Jun,0.5M
+Sugarloaf Craft Festivals,Retail and Restaurants,15-Jun,0.5M
+Twisted Root Burger (Coppell),Retail and Restaurants,8-Jun,0.5M
+Woods Sealing & Striping,"Industrials, Materials, Equipment and Parts",26-Mar,0.5M
+Semblance Medspa,Health and Personal Care,19-Aug,0.5M
+Jason’s Deli of Colorado,Retail and Restaurants,31-Aug,0.4M
+Moustache Brewing,Retail and Restaurants,21-Jul,0.4M
+Hubbards Cabins,Other,4-Sep,0.4M
+Fingerlakes Hospitality Group,"Travel, Lodging and Leisure",15-Jul,0.3M
+Yacht Club Vacation Owners Association,"Travel, Lodging and Leisure",31-Aug,0.3M
+Awesome Flight,"Travel, Lodging and Leisure",2-Dec,100.0K
+Hurdl,Entertainment,30-Nov,100.0K
+Peach Global Brands,Retail and Restaurants,24-Oct,100.0K
+MPR Summers,"Travel, Lodging and Leisure",20-Oct,100.0K
+Ed’s Beans,Retail and Restaurants,19-Oct,100.0K
+Street Level,Other,19-Oct,100.0K
+Yang’s Fitness & Training Center,"Travel, Lodging and Leisure",19-Oct,100.0K
+Natty Greene’s Brewing Co.,Retail and Restaurants,18-Oct,100.0K
+Virginia-Highland Restaurant LLC,Retail and Restaurants,13-Oct,100.0K
+Healing Home Yoga,"Travel, Lodging and Leisure",21-Sep,100.0K
+Kids First Swim Schools,Other,3-Sep,100.0K
+Haute Coffee,Retail and Restaurants,30-Aug,100.0K
+Galiciapoke,Retail and Restaurants,3-Aug,100.0K
+A La Turka Restaurant,Retail and Restaurants,15-Jul,100.0K
+Field of Flowers,Retail and Restaurants,7-Jul,100.0K
+Black Bottle Brewery,Retail and Restaurants,30-Jun,100.0K
+Bounce For Fun,Entertainment,17-Jun,100.0K
+Players Network,Entertainment,17-Jun,100.0K
+Twisted Root Burger (Arlington),Retail and Restaurants,8-Jun,100.0K
+Twisted Root Burger (Carrollton),Retail and Restaurants,8-Jun,100.0K
+Latino Kids Health,Health and Personal Care,29-May,100.0K
+Schreiner’s Fine Sausages,Retail and Restaurants,26-May,100.0K
+Rudy’s Barbershop,Health and Personal Care,2-Apr,100.0K
+Walker Service,Other,27-Mar,100.0K
+Gilman’s Cleaners,Other,27-Jul,80.0K
+Black Sea Fish and Grill,Retail and Restaurants,16-Dec,50.0K
+Snap Kitchen,Other,4-Dec,50.0K
+Francesca’s,Retail and Restaurants,3-Dec,50.0K
+Savepoint Tavern,Retail and Restaurants,19-Nov,50.0K
+Don Beto’s Tacos,Retail and Restaurants,17-Nov,50.0K
+d’Mai Urban Spa,Health and Personal Care,9-Nov,50.0K
+Go Ground,"Travel, Lodging and Leisure",3-Nov,50.0K
+El Churry Plaza,Retail and Restaurants,30-Oct,50.0K
+Shadowbox,"Travel, Lodging and Leisure",26-Oct,50.0K
+Sun Steaks,Retail and Restaurants,16-Oct,50.0K
+Stop & Go Airport Shuttle Service,"Travel, Lodging and Leisure",29-Sep,50.0K
+TM Healthcare Holdings,Health and Personal Care,17-Sep,50.0K
+Taco Crush,Retail and Restaurants,14-Sep,50.0K
+Hopsters Brewing Company,Retail and Restaurants,3-Sep,50.0K
+YC’s Mongolian Grill,Retail and Restaurants,31-Aug,50.0K
+Farber Ballet,Entertainment,20-Aug,50.0K
+Ain’t Missbeehaven Products,Retail and Restaurants,14-Aug,50.0K
+Lapeer Industries,"Industrials, Materials, Equipment and Parts",5-Aug,50.0K
+ABA Transportation,Other,3-Aug,50.0K
+Matchbox Food Group,Retail and Restaurants,3-Aug,50.0K
+DUFL,"Travel, Lodging and Leisure",22-Jul,50.0K
+Lladro Galleries,Retail and Restaurants,14-Jul,50.0K
+Online King,Retail and Restaurants,10-Jul,50.0K
+Place Pigalle Restaurant,Retail and Restaurants,10-Jul,50.0K
+The Pub McKinney,Retail and Restaurants,3-Jul,50.0K
+Bulls Head Diner,Retail and Restaurants,2-Jul,50.0K
+Northern Bear,Retail and Restaurants,8-Jun,50.0K
+Specialty’s Cafe & Bakery,Retail and Restaurants,27-May,50.0K
+CRT Food & Beverage,Retail and Restaurants,28-Apr,50.0K
+Joffe Emergency Services,Other,12-Mar,50.0K
+New Moon Orlando,Retail and Restaurants,17-Sep,20.0K
